@@ -2,20 +2,20 @@
   {
     "title": "Opening Inaccuracies Tool Released",
     "date": "2025-12-21",
-    "description": "A new analysis tool that imports your games and identifies recurring opening inaccuracies, helping you uncover repeated patterns that quietly hold back long-term improvement.",
+    "description": "A new analysis tool that imports your games and surfaces recurring opening inaccuracies, helping you spot familiar habits and patterns that quietly hold back improvement.",
     "goto": "openinginaccuracies",
     "url": "https://www.patreon.com/posts/opening-tool-146342022"
   },
   {
     "title": "Using Maia to Find Repertoire Gaps",
     "date": "2025-12-12",
-    "description": "An exploration of how Maia can be used to uncover gaps in your opening repertoire by comparing your move choices against expected human decision-making patterns.",
+    "description": "An exploration of how Maia exposes hidden gaps in your opening repertoire by comparing your moves against realistic, human-like expectations rather than engine-driven calculations.",
     "url": "https://lichess.org/@/HollowLeaf/blog/using-maia-and-leela-chess-zero-to-find-repertoire-gaps/VC2JsrqO"
   },
   {
     "title": "Integrating Maia2 into My Chess Application",
     "date": "2025-12-07",
-    "description": "A technical overview of what Maia2 is, why it matters for practical chess training, and how it was integrated into my application as an analysis engine.",
+    "description": "A behind-the-scenes technical overview of what Maia2 is, why it matters for chess improvement, and how it was integrated into my application for more human-focused analysis.",
     "url": "https://www.patreon.com/posts/integrating-like-145281462"
   }
 ]
