@@ -1,4 +1,10 @@
 [
+  { 
+    "title": "Repertoire Builder 1.4 Released",
+    "date": "2026-01-02",
+    "description": "Introduces Gap Analysis to uncover missing moves in your openings, adds Leela Chess Zero for neural-network analysis and practice, enables MCP-based AI workflows, expands Playbooks with new Grandmasters and matching bots, and boosts training with Standard and Repertoire Puzzles.",
+    "goto": "repertoirebuilder"
+  },
   {
     "title": "Opening Inaccuracies Tool Released",
     "date": "2025-12-21",
