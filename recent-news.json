@@ -1,5 +1,11 @@
 [
   { 
+    "title": "Suspicious Games, Engines, and Paranoia",
+    "date": "2026-01-15",
+    "description": "As online chess has grown, quiet doubts about cheating have followed. In this post, I explore the idea of a suspicious game detector — not to accuse players, but to add context and reassurance after confusing losses, and to reflect on what “suspicious” really means in modern chess.",
+    "url": "https://www.patreon.com/posts/suspicious-games-147895711"
+  },
+  { 
     "title": "AI Chess Coaches?",
     "date": "2026-01-06",
     "description": "Can modern AI actually teach chess, not just analyse it? In this article, I explore where today’s tools genuinely help, where they fall short, and what a realistic AI chess coach might look like when engines, data, and language models are used as assistants rather than oracles.",
